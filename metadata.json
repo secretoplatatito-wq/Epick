@@ -1,0 +1,6 @@
+{
+  "name": "CLIPPAH BY YUANGAMES77",
+  "description": "AI-powered automated video clipping, ranking, editing, 3D broadcast stage, and Model Context Protocol (MCP) studio platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
